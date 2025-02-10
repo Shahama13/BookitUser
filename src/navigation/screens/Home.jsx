@@ -102,6 +102,10 @@ const Home = () => {
       id: 5,
       uri: "https://images.pexels.com/photos/3735623/pexels-photo-3735623.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
     },
+    {
+      id: 6,
+      uri: "https://images.pexels.com/photos/3997377/pexels-photo-3997377.jpeg?auto=compress&cs=tinysrgb&w=600",
+    },
   ];
 
   const data = [
